@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/school_logo.jfif</file>
+        <file>icons/google.svg</file>
+        <file>icons/back_icon.png</file>
+        <file>icons/home_icon.png</file>
+        <file>icons/quit_icon.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>icons/tuk_logo.jfif</file>
+        <file>icons/Technical-University-of-Kenya-TUK-logo.png</file>
+    </qresource>
+</RCC>

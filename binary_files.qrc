@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="/storage"/>
+    <qresource prefix="/binary_files"/>
+</RCC>
